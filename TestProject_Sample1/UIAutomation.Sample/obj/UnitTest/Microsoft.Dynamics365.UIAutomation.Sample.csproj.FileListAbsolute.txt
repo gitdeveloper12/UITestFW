@@ -1,0 +1,7 @@
+C:\Users\machar\source\repos\UI_New\bin\UnitTest\Microsoft.Dynamics365.UIAutomation.Sample.dll.config
+C:\Users\machar\source\repos\UI_New\bin\UnitTest\Microsoft.Dynamics365.UIAutomation.Sample.dll
+C:\Users\machar\source\repos\UI_New\bin\UnitTest\Microsoft.Dynamics365.UIAutomation.Sample.pdb
+C:\Users\machar\source\repos\UI_New\EasyRepro-New\EasyRepro-releases-v9.0\Microsoft.Dynamics365.UIAutomation.Sample\obj\UnitTest\Microsoft.Dynamics365.UIAutomation.Sample.csprojResolveAssemblyReference.cache
+C:\Users\machar\source\repos\UI_New\EasyRepro-New\EasyRepro-releases-v9.0\Microsoft.Dynamics365.UIAutomation.Sample\obj\UnitTest\Microsoft.Dynamics365.UIAutomation.Sample.csproj.CoreCompileInputs.cache
+C:\Users\machar\source\repos\UI_New\EasyRepro-New\EasyRepro-releases-v9.0\Microsoft.Dynamics365.UIAutomation.Sample\obj\UnitTest\Microsoft.Dynamics365.UIAutomation.Sample.dll
+C:\Users\machar\source\repos\UI_New\EasyRepro-New\EasyRepro-releases-v9.0\Microsoft.Dynamics365.UIAutomation.Sample\obj\UnitTest\Microsoft.Dynamics365.UIAutomation.Sample.pdb
